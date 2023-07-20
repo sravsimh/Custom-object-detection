@@ -1,0 +1,13 @@
+
+train: ../dataset/train/images  # train images (relative to 'path') 128 images
+val: ../dataset/val/images  # val images (relative to 'path') 128 images
+
+
+# Classes
+names:
+  0: mask
+  1: no mask
+
+
+
+
